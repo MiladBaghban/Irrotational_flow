@@ -1,4 +1,4 @@
-Example: The velocity components in a two-dimensional flow of an inviscid fluid are. <br />
+Example: The velocity components in a two-dimensional flow of an inviscid fluid are.  <br />
                                 u = Kx / (x^2+z^2 ) <br />
                                 w = Kz / (x^2+z^2 ) <br />
 Is the flow irrotational?
